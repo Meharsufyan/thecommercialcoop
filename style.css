@@ -1,0 +1,117 @@
+.main_div_topnav {
+    height: 100%;
+    position: relative;
+    width: 100%;
+    z-index: 2;
+}
+
+.logo_top {
+    position: absolute;
+    justify-content: center !important;
+    top: 0px;
+}
+
+.nav-link {
+    font-size: 13px !important;
+    font-weight: 500;
+}
+
+.h1 {
+    font-weight: 700;
+    flex-wrap: wrap;
+}
+
+.h5 {
+    font-weight:400;
+    flex-wrap: wrap;
+}
+.h6 {
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 2rem;
+    flex-wrap: wrap;
+}
+.Email {
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+.section_2nd {
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient(to bottom right,#360e42,#9c1637);
+    margin-top: -8px;
+    padding-bottom: 200px;
+    padding-top: 50px;
+}
+.div-1{
+    margin-top: -7px;
+    position: relative;
+    z-index: 1;
+    transform: rotate(5deg);
+}
+.div-2 {
+    position: relative;
+    transform: rotate(-5deg);
+}
+
+.mobile{
+    padding-top: 130px;
+}
+.section_3nd {
+    width: 100%;
+    height: auto;
+   background-color: white;
+    padding-top: 75px;
+    padding-bottom: 120px;
+}
+.text-weight-bold {
+    font-size: 1.25rem;
+    font-weight: 500;
+    letter-spacing: .0125em;
+    line-height: 2rem;
+}
+.text-h3{
+    font-size: 1.5rem;
+    letter-spacing: normal;
+    line-height: 2.125rem;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.div-4 {
+    background-image: linear-gradient(to bottom right,#360e42,#9c1637);   
+    transform: skew(0deg,-5deg);
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.div-4-5 {
+    transform: skew(0deg,5deg);
+}
+
+.label-1 {
+    background: #000;
+    color: #fff;
+    display: block;
+    font-size: 18px;
+    padding: 10px 0 8px;
+}
+.card_margin{
+    margin-top: 160px !important;
+}
+.card_margin1{
+    margin-top: 140px !important;
+}
+
+.map-hover:hover {
+    background-color: lavender;
+}
+
+.footer-icon-color {
+    background-color: lavender;
+}
+
+.image-height {
+    height: 280px;
+}
